@@ -15,7 +15,7 @@ A Kenyan entrepreneur has created an online cryptography course and would want t
 ### DATASET
 The dataset was given by the user and can be found [here](http://bit.ly/IPAdvertisingData)
 
-### RPubs Publication
+### RPubs PUBLICATION
 The publication to this project can be found [here](insert link)
 
 
@@ -35,5 +35,5 @@ Kira Plastinina is a Russian brand that is sold through a defunct chain of retai
 ### DATASET
 The dataset was given by the user and can be found [here](http://bit.ly/EcommerceCustomersDataset)
 
-### RPubs Publication
+### RPubs PUBLICATION
 The publication to this project can be found [here](insert link)
