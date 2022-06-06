@@ -16,7 +16,7 @@ A Kenyan entrepreneur has created an online cryptography course and would want t
 The dataset was given by the user and can be found [here](http://bit.ly/IPAdvertisingData)
 
 ### RPubs PUBLICATION
-The publication to this project can be found [here](insert link)
+The publication to this project can be found [here](https://rpubs.com/r_owino/911206)
 
 
 
