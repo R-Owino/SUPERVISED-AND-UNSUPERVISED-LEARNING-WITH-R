@@ -36,4 +36,4 @@ Kira Plastinina is a Russian brand that is sold through a defunct chain of retai
 The dataset was given by the user and can be found [here](http://bit.ly/EcommerceCustomersDataset)
 
 ### RPubs PUBLICATION
-The publication to this project can be found [here](insert link)
+The publication to this project can be found [here](https://rpubs.com/r_owino/911143)
